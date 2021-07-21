@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![FC Obolon logo](https://github.com/azhuchenko/markdown-portfolio/blob/main/_includes/logo.png)

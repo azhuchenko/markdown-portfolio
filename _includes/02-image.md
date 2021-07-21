@@ -1,0 +1,1 @@
+![FC Obolon logo](https://github.com/azhuchenko/markdown-portfolio/blob/main/_includes/logo.png)

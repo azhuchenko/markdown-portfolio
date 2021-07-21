@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Programming languages*
+_Python, Java_
+
+**Frameworks**
+__Spring, Django__
+
+_Here's **combination** of bold and italic_
